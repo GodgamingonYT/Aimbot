@@ -13,7 +13,7 @@ local Settings = {
     -- Aimbot Settings
     AimbotEnabled = false,
     AimbotMode = "Nearest", -- "Nearest" or "Center"
-    LerpFactor = 0, -- Smoothness (0.1 = snappy, 0.5 = smooth)
+    LerpFactor = 0.1, -- Smoothness (0.1 = snappy, 0.5 = smooth)
     CheckInterval = 0.01, -- Target check frequency (seconds)
 
     -- Outline Settings
